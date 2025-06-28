@@ -1,9 +1,9 @@
 [
-  "yandex.com/games/app/",
-  "yandex.com/games/dist-app/",
-  "html5.gamedistribution.com/rvvASMiM/",
-  "poki.com/en/g/",
-  "poki.com/es/g/",
-  "playhop.com/app/",
-  "playhop.com/dist-app/"
+  "https://yandex.com/games/app/",
+  "https://yandex.com/games/dist-app/",
+  "https://html5.gamedistribution.com/rvvASMiM/",
+  "https://poki.com/en/g/",
+  "https://poki.com/es/g/",
+  "https://playhop.com/app/",
+  "https://playhop.com/dist-app/"
 ]
